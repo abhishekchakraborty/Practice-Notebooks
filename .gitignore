@@ -1,0 +1,2 @@
+# Ignore checkpoints, as advised at stackoverflow.com/a/39997938/396865
+.ipynb_checkpoints/*
